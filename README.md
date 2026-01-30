@@ -1,15 +1,52 @@
-Hi ! My name is Dakota Hodge
-=====================================================================================================================================
+# Hi, I'm Dakota 👋
 
-Low-Level Software Security Engineer
-------------------------------------
+### Learning Low-Level Systems & Kernel Security
 
-*   🌍  I'm based in Lexington, Sc
-*   🖥️  See my portfolio at [MyPortfolio](http://tbd )
-*   ✉️  You can contact me at [dakyh16@gmail.com](mailto:dakyh16@gmail.com)
-*   🧠  I'm currently learning Kernel Exploits
-*   👥  I'm looking to collaborate on engaging projects
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" alt="Rust" title="Rust" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" alt="Neovim" title="Neovim" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-                  </p>
-                
+I'm just getting started in cybersecurity and systems programming.  
+My long-term goal is to work in **OS / kernel security** (Linux internals, memory safety, exploit mitigation), using **C/C++ and Rust**.
+
+---
+
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,github,git,linux,lua,neovim,py,raspberrypi,rust,vim)](https://skillicons.dev)
+
+---
+
+## What I'm focused on right now
+- ✅ Linux fundamentals + command line
+- ✅ C programming basics (pointers, memory, data structures)
+- 🔄 OS fundamentals (processes, virtual memory, syscalls)
+- 🔄 Intro reversing + debugging (GDB, basic assembly)
+- 🔄 Security foundations (vuln types, mitigations)
+
+---
+
+## What I'm building (in public)
+I learn best by building and writing things down. Here’s what I’ll be working on:
+
+- **`linux-notes`** – Notes + diagrams as I learn kernel/OS concepts  
+- **`c-fundamentals`** – Small C programs to practice memory + debugging  
+- **`security-labs`** – Safe local labs (overflows, UAF concepts, mitigations)  
+- **`rust-systems`** – Rust experiments for safe systems programming  
+
+*(Repos will be messy at first — the point is consistent progress.)*
+
+---
+
+## Goals for 2026
+- Ship 3–5 solid repos that show real growth
+- Get comfortable reading documentation + source code
+- Reproduce at least one real vulnerability write-up in a safe lab
+- Contribute a small fix or documentation update to an open-source project
+
+---
+
+## Tools I'm learning
+- Languages: **C**, **Rust** (later: **C++**)
+- OS: **Linux** (daily driver)
+- Debugging: **gdb**, **strace**, **ltrace**
+- VM/Labs: **QEMU / VirtualBox** (safe testing environments)
+
+---
+
+## Connect
+- GitHub: you're here
