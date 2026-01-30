@@ -2,12 +2,12 @@
 
 ### Learning Low-Level Systems & Kernel Security
 
-I'm just getting started in cybersecurity and systems programming.  
+I'm just getting started in systems programming and security.  
 My long-term goal is to work in **OS / kernel security** (Linux internals, memory safety, exploit mitigation), using **C/C++ and Rust**.
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,github,git,linux,lua,neovim,py,raspberrypi,rust,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,linux,lua,py,raspberrypi,rust)](https://skillicons.dev)
 
 ---
 
@@ -15,7 +15,7 @@ My long-term goal is to work in **OS / kernel security** (Linux internals, memor
 - ✅ Linux fundamentals + command line
 - ✅ C programming basics (pointers, memory, data structures)
 - 🔄 OS fundamentals (processes, virtual memory, syscalls)
-- 🔄 Intro reversing + debugging (GDB, basic assembly)
+- 🔄 Intro reversing + debugging (GDB, basic x86_64 assembly)
 - 🔄 Security foundations (vuln types, mitigations)
 
 ---
@@ -45,8 +45,3 @@ I learn best by building and writing things down. Here’s what I’ll be workin
 - OS: **Linux** (daily driver)
 - Debugging: **gdb**, **strace**, **ltrace**
 - VM/Labs: **QEMU / VirtualBox** (safe testing environments)
-
----
-
-## Connect
-- GitHub: you're here
