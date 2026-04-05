@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="AstraCore space systems banner design.png" alt="AstraCore Banner" width="100%">
+</p>
+<br>
 # Dakota Hodge - Space Systems Software
 [![My Skills](https://skillicons.dev/icons?i=cpp,linux,py,raspberrypi,rust)](https://skillicons.dev)
 ---
