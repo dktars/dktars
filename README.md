@@ -1,5 +1,6 @@
 # Dakota Hodge - Space Systems Software
 [![My Skills](https://skillicons.dev/icons?i=cpp,git,linux,py,raspberrypi,rust)](https://skillicons.dev)
+---
 Building portfolio-driven space software systems focused on:
 - Orbital Simulation & Phyics Engine
 - Flight Software / CubeSat System Emulation
