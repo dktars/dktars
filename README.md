@@ -1,5 +1,5 @@
 # Dakota Hodge - Space Systems Software
-[![My Skills](https://skillicons.dev/icons?i=cpp,git,linux,py,raspberrypi,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,linux,py,raspberrypi,rust)](https://skillicons.dev)
 ---
 Building portfolio-driven space software systems focused on:
 - Orbital Simulation & Phyics Engine
@@ -10,19 +10,17 @@ Building portfolio-driven space software systems focused on:
 
 ---
 
-## Current Mission
-I'm building a connected **space systems software portfolio ecosystem centered around fictional CubSat mission:
-### AstraCore
-A multi-repo spacecraft software platform featuring:
-- Orbital Lab -> trajectory simulation, manuever planning, docking logic
-- Flight Core -> onboard subsystem state machines, safe mode, watchdogs
+## Current Mission - AstraCore
+Building a connected space systems software ecosystem focused on:
+- Orbital Lab -> trajectory simulation, transfer planning, and docking logic
+- Flight Core -> subsystem state machines, watchdogs, safe mode
 - SecureLink -> authenticated commands, replay protection, telemetry validation
-- Ground Station -> mission dashboard, health monitoring, anomaly alerts
-The goal is to develop production-style systems that align with roles in:
+- Ground Station -> health dashboards, anomaly alerts, mission telemetry
+
+Designed to align with real-world roles in:
 - Flight Software Engineering
-- Orbital Simulation / Physics Engine Development
+- Orbital Simululation / Physics Engine Development
 - Space Cybersecurity
-- Mission Systems Engineering
 
 ---
 
