@@ -1,70 +1,84 @@
-<p align="center">
-  <img src="AstraCore space systems banner design.png" alt="AstraCore Banner" width="100%">
-</p>
-<br>
+# Dakota 
 
+[![My Skills](https://skillicons.dev/icons?i=cpp,linux,py,raspberrypi,rust)](https://skillicons.dev)]
 
-# Dakota Hodge - Space Systems Software
-[![My Skills](https://skillicons.dev/icons?i=cpp,linux,py,raspberrypi,rust)](https://skillicons.dev)
----
-Building portfolio-driven space software systems focused on:
-- Orbital Simulation & Phyics Engine
-- Flight Software / CubeSat System Emulation
-- Secure Spacecraft Command & Telemetry
-- Ground Station Dashboards
-- Linux, Rust, Python, and Systems Engineering
+I'm currently building toward work in aerospace and simulation systems - specifically physics engines, flight-related systems, and space-focused software.
+
+Right now, I'm focused on learning Python by building small but intentional systems that move in that direction. 
 
 ---
 
-## Current Mission - AstraCore
-Building a connected space systems software ecosystem focused on:
-- Orbital Lab -> trajectory simulation, transfer planning, and docking logic
-- Flight Core -> subsystem state machines, watchdogs, safe mode
-- SecureLink -> authenticated commands, replay protection, telemetry validation
-- Ground Station -> health dashboards, anomaly alerts, mission telemetry
+## Current Focus
 
-Designed to align with real-world roles in:
-- Flight Software Engineering
-- Orbital Simululation / Physics Engine Development
-- Space Cybersecurity
+- Building a foundational **Earth-based physics engine**
+    - Motion, forces, and time-step simulation
+    - Starting simple adn expanding toward more realistic models
 
----
+- Developing **core math and simulation utilities**
+    - Vector math 
+    - Reusable components for simulation work 
 
-## Current Tech Focus 
-Python • Simulation • Data tooling 
-Rust • Safe systems programming 
-C++ • Performance & real-time systems 
-Linux • OS-level architecture & tooling 
-GitHub • Public engineering portfolio
+- Exploring **flight and space-related systems**
+    - Tracking concepts 
+    - Data handling
+    - Early-stage modeling
 
----
+## Projects
 
-## Career Direction
-Focused on becoming a Space Systems Software Engineer specializing in:
-- Orbital mechanics simulation
-- Flight software architecture
-- spacecraft cybersecurity
-- digital twins / mission rehearsal systems
-- secure onboard Linux systems
+### earth-physics-engine
+A growing project focused on simulating motion and forces starting from basic principles.
+
+Current work includes:
+- Position, velocity, acceleration
+- Gravity modeling
+- Early drag approximations
+
+This is the main project I'm building on ever time.
 
 ---
 
-## Featured Projects
-Coming Soon:
-- AstraCore Orbital Lab
-- AstraCore Flight Core
-- AstraCore SecureLink
-- AstraCore Ground Station
+### vector-math-uti;s
+A small utility library for vector operations used across simulation projects.
+
+Focus:
+- Clean, readable implementations
+- Reusable math components
 
 ---
 
-## Engineering Philosophy 
-I like building systems that are: 
-- practical
-- testable
-- modular
-- secure
-- visually understandable
-- realistic enough to map to production enviroments
-My best work combines physics, systems engineering, Linux, and Cybersecurity.
+### simulation-visualizer
+Simple tools for visualizing simulation output.
 
+Goal:
+- Turn raw simulation data into something observable
+- Help debug and understand system behavior 
+
+---
+
+## Direction
+
+I'm working toward building systems in areas like: 
+
+- Physics simulation (atmospheric -> orbital)
+- Flight systems and tracking
+- Space systems abd trajectory modeling
+
+The goal isn't to rush complexity, but to build a strong foundation and expand it over time. 
+
+---
+
+## Tech (Current)
+
+- Python 
+- Basic simulation modeling
+- Data handling (CSV / structured data)
+
+---
+
+## Notes
+
+I'm early in this process, but I'm approaching it as a long-term build rather than isolated projects.
+
+Each repo is part of a larger direction: learning how to design and build systems that model real-world behavior. 
+
+--- 
